@@ -8,8 +8,24 @@ html {
 }
 
 :root {
+  --primary-text: "Public Sans", sans-serif;
+  --secondary-text: "Poppins", sans-serif;
+  --primary-text-color: #152427;
+  --secondary-text-color: #575d5e;
+  --primary-bg-color: #e2eddf;
+  --secondary-bg-color: #143c3c;
 }
 
 body {
   font-size: 1.6rem;
 }
+
+/* Common */
+
+/* Header */
+
+/* Navbar */
+
+/* =================================================== */
+
+/* Hero */
